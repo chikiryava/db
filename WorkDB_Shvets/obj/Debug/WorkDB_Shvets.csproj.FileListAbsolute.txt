@@ -1,0 +1,11 @@
+C:\Users\307-07\Desktop\WorkDB_Shvets\obj\Debug\WorkDB_Shvets.csproj.AssemblyReference.cache
+C:\Users\307-07\Desktop\WorkDB_Shvets\obj\Debug\WorkDB_Shvets.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-07\Desktop\WorkDB_Shvets\obj\Debug\WorkDB_Shvets.Authorization_frm.resources
+C:\Users\307-07\Desktop\WorkDB_Shvets\obj\Debug\WorkDB_Shvets.Properties.Resources.resources
+C:\Users\307-07\Desktop\WorkDB_Shvets\obj\Debug\WorkDB_Shvets.csproj.GenerateResource.cache
+C:\Users\307-07\Desktop\WorkDB_Shvets\obj\Debug\WorkDB_Shvets.csproj.CoreCompileInputs.cache
+C:\Users\307-07\Desktop\WorkDB_Shvets\bin\Debug\WorkDB_Shvets.exe.config
+C:\Users\307-07\Desktop\WorkDB_Shvets\bin\Debug\WorkDB_Shvets.exe
+C:\Users\307-07\Desktop\WorkDB_Shvets\bin\Debug\WorkDB_Shvets.pdb
+C:\Users\307-07\Desktop\WorkDB_Shvets\obj\Debug\WorkDB_Shvets.exe
+C:\Users\307-07\Desktop\WorkDB_Shvets\obj\Debug\WorkDB_Shvets.pdb
